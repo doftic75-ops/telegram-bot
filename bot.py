@@ -8,7 +8,8 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8701793432:AAHU49Y6bfkckwMZbujZ1NgkVN25yjdHmlw"
+import os
+TOKEN = os.getenv("TOKEN")
 
 user_data = {}
 
