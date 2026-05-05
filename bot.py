@@ -8,7 +8,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8701793432:AAGfsVObM787UbAELIrGjxvcxtDbftcdElE"
+TOKEN = "8701793432:AAHU49Y6bfkckwMZbujZ1NgkVN25yjdHmlw"
 
 user_data = {}
 
